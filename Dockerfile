@@ -1,5 +1,5 @@
 FROM java:8
-MAINTAINER Knocknote<tech@knocknote.co.jp>
+MAINTAINER Blastrain<tech@blastrain.co.jp>
 
 ENV JAVAPATH /java
 ENV PATH $JAVAPATH/bin:/usr/local/java/bin:$PATH
